@@ -1,0 +1,33 @@
+body {
+    background: url("https://images.pond5.com/abstract-ninja-star-background-purple-footage-023104640_prevstill.jpeg");
+}
+
+p {
+    font-size: 30px;
+    color: white;
+}
+
+h1 {
+    color: white;
+}
+
+a {
+    font-size: 25px;
+    color: rgb(174, 191, 226);
+}
+
+ol {
+    font-size: 25px;
+    color: rgb(174, 191, 226);
+}
+
+#Home {
+    list-style: none;
+    float: right;
+}
+
+#Vote {
+    list-style: none;
+    float: right;
+    margin-right: 20px;
+}
